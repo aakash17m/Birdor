@@ -1,0 +1,54 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.nav-brand{
+    color: aqua;
+}
+/* .search-box{
+    border-radius: 15px;
+} */
+.best{
+    color: blue;
+  
+}
+/* .bird{
+    font-size: 45px;
+    font-weight: 700;
+}
+.bluebird{
+    font-weight: 700;
+    font-size: 45px;
+}  */
+.navbar-brand{
+    color: blue;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.nav-link{
+    color: blue;
+}
+.word{
+    text-align: center;
+    align-items: center;
+    padding-top: 10%;
+
+}
+.welcome{
+    font-size: larger;
+}
+.btn-1{
+    margin-left: -10%;
+}
+.bird-img{
+    width: 95%;
+    padding-top: 5%;
+}
+h1{
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-left: -10%;
+}
+p{
+    margin-left: -10%;
+}
